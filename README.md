@@ -1,3 +1,5 @@
+[![Clippy](https://github.com/nogibjj/rd278-w7-rust/actions/workflows/actions.yml/badge.svg)](https://github.com/nogibjj/rd278-w7-rust/actions/workflows/actions.yml)
+
 # Palindrome in rust
 ## By Rafael Davila Bugarin
 
