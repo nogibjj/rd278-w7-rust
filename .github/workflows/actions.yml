@@ -1,6 +1,10 @@
 name: Clippy
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
 
 jobs:
   build:
@@ -14,7 +18,9 @@ jobs:
           profile: minimal
           components: clippy, rustfmt
           override: true
-      - name: Run clippy
+      - name: Format
+        run: make format
+      - name: Lint
         run: make lint
-  
-
+      - name: Test
+        run: make test
