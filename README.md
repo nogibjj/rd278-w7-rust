@@ -3,6 +3,9 @@
 
 This is a simple palindrome checker written in rust. It is a simple example of how to write and import a lib.rs to use it in a main fail. Cargo was initialized and it generated the ´Cargo.tml´file.
 
+This a succesuful example:
+
+![image](https://github.com/nogibjj/rd278-w7-rust/blob/main/static/racecar.png)
 
 ## References
 
