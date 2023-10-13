@@ -8,6 +8,7 @@ This a successuful example:
 ![image](https://github.com/nogibjj/rd278-w7-rust/blob/main/static/racecar.png)
 
 And a non successful example:
+
 ![image2](https://github.com/nogibjj/rd278-w7-rust/blob/main/static/Rafael.png)
 
 
